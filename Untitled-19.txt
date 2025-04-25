@@ -1,0 +1,18 @@
+#include "math.h"
+
+#include <iostream>
+
+using namespace std;
+#include <conio.h> 
+
+int main()
+{
+/*char a[15] ={"nima & unknown"};
+cout<<a<<"\n"<<a[0]<<"\t"<<"\n"<<a[1]<<"\t"<<"\n"<<a[7]<<"\t"<<"\n"<<a[8];*/
+cout<<log(9);
+cout<<pow (2, 6);
+_getch();
+
+
+}
+your_file_name.cpp
